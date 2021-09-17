@@ -9,7 +9,7 @@
 
 - 👯 I’m looking to collaborate on [JKOSC Organisation](https://github.com/JK-Open-Source-Community)
 
-- 📫 How to reach me **askingraman@gmail.com**
+- 📫 How to reach me **message.raman@gmail.com**
 <!--
 - 📄 Know about my experiences [https://drive.google.com/file/d/1LcVjZqJ2YsHqglwTdJCx9sDIAT1Os7UH/view?usp=sharing](https://drive.google.com/file/d/1LcVjZqJ2YsHqglwTdJCx9sDIAT1Os7UH/view?usp=sharing) -->
 
